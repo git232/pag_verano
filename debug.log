@@ -1,0 +1,6 @@
+[1115/230459.796:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acceso denegado. (0x5)
+[1115/230459.796:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1115/230459.796:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acceso denegado. (0x5)
+[0312/112456.008:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acceso denegado. (0x5)
+[0312/112456.032:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0312/112456.036:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acceso denegado. (0x5)

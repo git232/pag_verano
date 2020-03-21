@@ -1,0 +1,33 @@
+
+body{
+    background-color: lavender;
+    font-family: 'Lucida Sans';
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 70px;
+
+    color: crimson;
+    padding: 1,5mm;
+    text-align:center ;
+    background-color: mediumslateblue;
+}
+h2{
+    color:crimson;
+    
+}
+
+ul{
+    list-style-type: square;
+    
+}
+
+
+
+
+
+
+
